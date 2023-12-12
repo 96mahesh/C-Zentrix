@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 
 public class TestNgRun {
 
-@Test(invocationCount = 1,enabled = true)
+@Test(invocationCount = 2,enabled = true)
 
 	public  void main() throws Exception {
 	    
